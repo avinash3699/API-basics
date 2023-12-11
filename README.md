@@ -7,3 +7,6 @@
 
 ## API Terms
 * [A Complete List of API Terms](https://www.apisec.ai/blog/api-glossary)
+
+## REST
+* [Understanding the basics of RESTful APIs](https://pusher.com/tutorials/understanding-rest-api/)
