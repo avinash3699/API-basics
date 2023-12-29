@@ -10,6 +10,8 @@
 
 ## API Terms
 * [A Complete List of API Terms](https://www.apisec.ai/blog/api-glossary)
+* [Path Parameters](https://www.abstractapi.com/api-glossary/path-parameters)
+* [Query Parameters](https://www.abstractapi.com/api-glossary/query-parameters)
 
 ## REST
 * [Understanding the basics of RESTful APIs](https://pusher.com/tutorials/understanding-rest-api/)
